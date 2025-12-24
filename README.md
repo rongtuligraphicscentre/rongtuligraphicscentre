@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=Rongtuli%20Graphics&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=250&section=header&text=Rongtuli%20Graphics&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31A8FF&center=true&vCenter=true&width=435&lines=Creative+Graphic+Designer;Full-Stack+Web+Developer;UI/UX+Enthusiast;Building+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=Creative+Graphic+Designer;Full-Stack+Web+Developer;UI/UX+Architect;Turning+Ideas+Into+Visual+Reality" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,15 +13,14 @@
 ---
 
 ## 💫 About Me
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=rongtuligraphicscentre&repo=rongtuligraphicscentre&theme=radical&show_owner=true" />
 
 I am a passionate **Graphic Designer and Developer** dedicated to building visually stunning and highly functional digital experiences. With a keen eye for detail and a love for clean code, I bridge the gap between aesthetics and performance.
 
-- 🔭 **Working on:** High-end branding and scalable web apps.
-- 🌱 **Learning:** Advanced Next.js & Motion Graphics.
-- 👯 **Collabs:** Open for UI/UX & Creative Front-end projects.
-- 💬 **Expertise:** Typography, Branding, & React Architecture.
-- ⚡ **Motto:** *Turning ideas into visual reality.*
+* 🔭 **Working on:** High-end branding and scalable web apps.
+* 🌱 **Learning:** Advanced Next.js & Motion Graphics.
+* 👯 **Collabs:** Open for UI/UX & Creative Front-end projects.
+* 💬 **Expertise:** Typography, Branding, & React Architecture.
+* ⚡ **Motto:** *Every pixel has a purpose.*
 
 ---
 
@@ -48,26 +47,30 @@ I am a passionate **Graphic Designer and Developer** dedicated to building visua
 
 ---
 
-## 📊 Performance Metrics
+## 📈 Performance Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rongtuligraphicscentre&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rongtuligraphicscentre&layout=compact&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rongtuligraphicscentre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rongtuligraphicscentre&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rongtuligraphicscentre&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rongtuligraphicscentre/rongtuligraphicscentre/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rongtuligraphicscentre&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📬 Get In Touch
+## 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rongtuligraphicscentre/rongtuligraphicscentre/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rongtuligraphicscentre/rongtuligraphicscentre/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rongtuligraphicscentre/rongtuligraphicscentre/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+## 📬 Connect With Me
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -76,5 +79,5 @@ I am a passionate **Graphic Designer and Developer** dedicated to building visua
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
