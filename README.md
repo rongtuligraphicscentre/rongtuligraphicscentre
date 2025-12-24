@@ -1,13 +1,8 @@
-<!-- =====================================================
-                PREMIUM HERO BANNER
-===================================================== -->
-
 <p align="center">
   <img 
     src="https://rongtuligraphics.in/assets/img/banner/web_devlopment1.jpg" 
     alt="Rongtuli Graphics – Web Development"
     width="100%"
-    hight="100%"
   />
 </p>
 
@@ -60,27 +55,15 @@ Our mission is to create **experiences that convert visitors into customers**.
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rongtuligraphicscentre&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="GitHub Stats"
-    width="100%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rongtuligraphicscentre&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rongtuligraphicscentre&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Top Languages"
-    width="100%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rongtuligraphicscentre&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=rongtuligraphicscentre&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="GitHub Streak Stats"
-    width="100%"
-  />
+  <img src="https://streak-stats.demolab.com?user=rongtuligraphicscentre&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -88,10 +71,7 @@ Our mission is to create **experiences that convert visitors into customers**.
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rongtuligraphicscentre/rongtuligraphicscentre/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/rongtuligraphicscentre/rongtuligraphicscentre/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/rongtuligraphicscentre/rongtuligraphicscentre/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -102,14 +82,7 @@ Our mission is to create **experiences that convert visitors into customers**.
   <a href="https://rongtuligraphics.in">
     <img src="https://img.shields.io/badge/Website-Visit%20Now-000000?style=for-the-badge" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:contact@rongtuligraphics.in">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yourprofile">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>✨ Premium design | Clean layout | GitHub-optimized ✨</sub>
 </p>
