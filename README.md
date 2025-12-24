@@ -4,7 +4,7 @@
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5">
-    <img src="https://rongtuligraphics.in/assets/img/banner/web_devlopment.jpg" height="260" alt="Web Development Banner" />
+    <img src="https://rongtuligraphics.in/assets/img/banner/web_devlopment.jpg" height="auto" alt="Web Development Banner" />
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://rongtuligraphics.in/assets/img/banner/graphics_desine.jpg" height="260" alt="Graphics Design Banner" />
     &nbsp;&nbsp;&nbsp;&nbsp;
