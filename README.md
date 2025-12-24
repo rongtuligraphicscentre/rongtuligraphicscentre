@@ -7,6 +7,7 @@
     src="https://rongtuligraphics.in/assets/img/banner/web_devlopment.jpg" 
     alt="Rongtuli Graphics – Web Development"
     width="100%"
+    hight="100%"
   />
 </p>
 
