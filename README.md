@@ -60,25 +60,12 @@ Our mission is to create **experiences that convert visitors into customers**.
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rongtuligraphicscentre&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rongtuligraphicscentre&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rongtuligraphicscentre&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
 
 ---
 
 ## 🐍 Contribution Activity
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rongtuligraphicscentre/rongtuligraphicscentre/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rongtuligraphicscentre/rongtuligraphicscentre/output/github-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/rongtuligraphicscentre/rongtuligraphicscentre/output/github-snake.svg">
-  </picture>
-</p>
+
 ---
 
 ## 📬 Let’s Work Together
