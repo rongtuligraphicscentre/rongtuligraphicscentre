@@ -60,12 +60,27 @@ Our mission is to create **experiences that convert visitors into customers**.
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rongtuligraphicscentre&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rongtuligraphicscentre&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rongtuligraphicscentre&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
+    width="460"
+    alt="GitHub Stats"
+  />
+  &nbsp;&nbsp;
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rongtuligraphicscentre&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+    width="460"
+    alt="Top Languages"
+  />
 </p>
 
+<br/>
+
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rongtuligraphicscentre&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rongtuligraphicscentre&theme=tokyonight&hide_border=true&border_radius=12"
+    width="920"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 ---
