@@ -6,9 +6,9 @@
   <marquee behavior="scroll" direction="left" scrollamount="5">
     <img src="https://rongtuligraphics.in/assets/img/banner/web_devlopment.jpg" height="auto" alt="Web Development Banner" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://rongtuligraphics.in/assets/img/banner/graphics_desine.jpg" height="260" alt="Graphics Design Banner" />
+    <img src="https://rongtuligraphics.in/assets/img/banner/graphics_desine.jpg" height="auto" alt="Graphics Design Banner" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://rongtuligraphics.in/assets/img/banner/social_media.jpg" height="260" alt="Social Media Banner" />
+    <img src="https://rongtuligraphics.in/assets/img/banner/social_media.jpg" height="auto" alt="Social Media Banner" />
   </marquee>
 </p>
 
