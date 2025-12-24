@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://rongtuligraphics.in/assets/img/banner/web_devlopment.jpg" 
+    src="https://rongtuligraphics.in/assets/img/banner/web_devlopment1.jpg" 
     alt="Rongtuli Graphics – Web Development"
     width="100%"
     hight="100%"
