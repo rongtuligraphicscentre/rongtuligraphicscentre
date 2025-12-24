@@ -60,26 +60,26 @@ Our mission is to create **experiences that convert visitors into customers**.
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=rongtuligraphicscentre&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
-    width="460"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rongtuligraphicscentre&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
     alt="GitHub Stats"
-  />
-  &nbsp;&nbsp;
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rongtuligraphicscentre&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
-    width="460"
-    alt="Top Languages"
+    width="100%"
   />
 </p>
 
-<br/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rongtuligraphicscentre&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="Top Languages"
+    width="100%"
+  />
+</p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rongtuligraphicscentre&theme=tokyonight&hide_border=true&border_radius=12"
-    width="920"
+  <img
+    src="https://streak-stats.demolab.com?user=rongtuligraphicscentre&theme=tokyonight&hide_border=true&cache_seconds=86400"
     alt="GitHub Streak Stats"
+    width="100%"
   />
 </p>
 
