@@ -52,18 +52,20 @@ Our mission is to create **experiences that convert visitors into customers**.
 
 ---
 
+---
+
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rongtuligraphicscentre&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rongtuligraphicscentre&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rongtuligraphicscentre&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rongtuligraphicscentre&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rongtuligraphicscentre&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=rongtuligraphicscentre&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -71,9 +73,11 @@ Our mission is to create **experiences that convert visitors into customers**.
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rongtuligraphicscentre/rongtuligraphicscentre/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rongtuligraphicscentre/rongtuligraphicscentre/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/rongtuligraphicscentre/rongtuligraphicscentre/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  </picture>
 </p>
-
 ---
 
 ## 📬 Let’s Work Together
