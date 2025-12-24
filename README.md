@@ -1,16 +1,16 @@
-<!-- =====================================================
-                AUTO SLIDING BANNER SYSTEM
-===================================================== -->
+<!-- ===================== FIXED AUTO SLIDING BANNERS ===================== -->
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5">
-    <img src="https://rongtuligraphics.in/assets/img/banner/web_devlopment.jpg" height="auto" alt="Web Development Banner" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://rongtuligraphics.in/assets/img/banner/graphics_desine.jpg" height="auto" alt="Graphics Design Banner" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://rongtuligraphics.in/assets/img/banner/social_media.jpg" height="auto" alt="Social Media Banner" />
+  <marquee behavior="scroll" direction="left" scrollamount="4">
+    <img src="https://rongtuligraphics.in/assets/img/banner/web_devlopment.jpg" width="420" alt="Web Development" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://rongtuligraphics.in/assets/img/banner/graphics_desine.jpg" width="420" alt="Graphics Design" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://rongtuligraphics.in/assets/img/banner/social_media.jpg" width="420" alt="Social Media Marketing" />
   </marquee>
 </p>
+
+<!-- ===================== END FIXED SLIDER ===================== -->
 
 <!-- =====================================================
                     TYPING INTRO
