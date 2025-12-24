@@ -74,8 +74,9 @@ Our mission is to create **experiences that convert visitors into customers**.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rongtuligraphicscentre/rongtuligraphicscentre/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/rongtuligraphicscentre/rongtuligraphicscentre/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rongtuligraphicscentre/rongtuligraphicscentre/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rongtuligraphicscentre/rongtuligraphicscentre/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/rongtuligraphicscentre/rongtuligraphicscentre/output/github-snake.svg">
   </picture>
 </p>
 ---
